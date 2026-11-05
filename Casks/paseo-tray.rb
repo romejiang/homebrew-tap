@@ -1,6 +1,6 @@
 cask "paseo-tray" do
   version "0.1.0"
-  sha256 "32745dc6721f17a0a967a63d56d2ebc062a88193a1abe847d79e07c11361f8e9"
+  sha256 "b52f08185239555e30c84a88769d9db2adc295b60af18fec31a1e379aef02470"
 
   url "https://github.com/romejiang/paseo-tray/releases/download/v#{version}/PaseoTray-#{version}.dmg"
   name "Paseo Tray"
