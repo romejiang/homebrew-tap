@@ -7,7 +7,7 @@ cask "paseo-tray" do
   desc "macOS menu bar tray for Paseo"
   homepage "https://github.com/romejiang/paseo-tray"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "PaseoTray.app"
 
